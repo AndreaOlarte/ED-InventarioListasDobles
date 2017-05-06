@@ -1,0 +1,10 @@
+C:\Users\20126250\Documents\Visual Studio 2015\Projects\ED - Programa 19.Listas dobles\ED - Programa 19.Listas dobles\bin\Debug\ED - Programa 19.Listas dobles.exe.config
+E:\4to Semestre\Estructura de datos\ED - Programa 19.Listas dobles\ED - Programa 19.Listas dobles\bin\Debug\ED - Programa 19.Listas dobles.exe.config
+E:\4to Semestre\Estructura de datos\ED - Programa 19.Listas dobles\ED - Programa 19.Listas dobles\bin\Debug\ED - Programa 19.Listas dobles.exe
+E:\4to Semestre\Estructura de datos\ED - Programa 19.Listas dobles\ED - Programa 19.Listas dobles\bin\Debug\ED - Programa 19.Listas dobles.pdb
+E:\4to Semestre\Estructura de datos\ED - Programa 19.Listas dobles\ED - Programa 19.Listas dobles\obj\Debug\ED - Programa 19.Listas dobles.csprojResolveAssemblyReference.cache
+E:\4to Semestre\Estructura de datos\ED - Programa 19.Listas dobles\ED - Programa 19.Listas dobles\obj\Debug\ED___Programa_19.Listas_dobles.Form1.resources
+E:\4to Semestre\Estructura de datos\ED - Programa 19.Listas dobles\ED - Programa 19.Listas dobles\obj\Debug\ED___Programa_19.Listas_dobles.Properties.Resources.resources
+E:\4to Semestre\Estructura de datos\ED - Programa 19.Listas dobles\ED - Programa 19.Listas dobles\obj\Debug\ED - Programa 19.Listas dobles.csproj.GenerateResource.Cache
+E:\4to Semestre\Estructura de datos\ED - Programa 19.Listas dobles\ED - Programa 19.Listas dobles\obj\Debug\ED - Programa 19.Listas dobles.exe
+E:\4to Semestre\Estructura de datos\ED - Programa 19.Listas dobles\ED - Programa 19.Listas dobles\obj\Debug\ED - Programa 19.Listas dobles.pdb
